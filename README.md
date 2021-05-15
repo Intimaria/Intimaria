@@ -7,6 +7,9 @@
 <img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> 
 <img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> 
 <img src="https://25.media.tumblr.com/9fc677259c763c527376de15c84291c2/tumblr_mx585u8qtV1sedjuto1_500.gif" alt="computer" width="80">
+<img src="https://cdn.wallpapersafari.com/61/37/dhNbK0.gif" align="right" width="300">
+
+
 Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
@@ -20,8 +23,7 @@ Here are some ideas to get you started:
 <h2>About me </h2>
 
 <div >
-  <img src="https://cdn.wallpapersafari.com/61/37/dhNbK0.gif" align="right" width="300">
-
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fce%2Fec%2Fa5%2Fceeca5612d3e25226f9d5cb7616f8976.gif" align="right" width="300">
 <ul>
   <li><b>👤 Name: </b> Inti Maria</li>
   <li><b>😄 Pronouns:</b>  She/They</li>
