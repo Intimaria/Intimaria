@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 <h2>I'm currently</h2>
 
-- 🌱 learning Docker, SUnit, programming Sockets, & also general JS with <a href="https://github.com/w3cj">Coding Garden!</a> 
-- 📚 Reading: **"Borges, Big Data y yo"** which is cool! 
+- 🌱 learning Docker, Smalltalk with SUnit, programming Sockets, & also following JS tutorials with <a href="https://github.com/w3cj">Coding Garden!</a> 
+- 📚 Reading: **"Borges, Big Data y yo"** which is supes cool! 
 - 🤔 I’m looking for help with CSS, design & typography
 - 🦄 Looking into alternative tools for the internet
 
