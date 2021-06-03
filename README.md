@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <li><b>📣 Languages:</b> English & Spanish</li>
 </ul>
 
-<p>I'm Inti Maria (<i>aka Intu</i>) a computer engineering student diving into the world of teaching. I've recently become a teaching assistant at the IT Faculty of the National University of La Plata, where I support students to learn binary representation, assembly language and circuitry in the Computer Organization and Arquitecture classes. I'm passionate about building opportunities for students, bridges between different communities, and helping people from diverse backgrounds to code.
+<p>I'm Inti Maria (<i>aka Intu</i>) a computer engineering student diving into the world of writing. I've recently become a teaching assistant at the IT Faculty of the National University of La Plata, where I support students to learn binary representation, assembly language and circuitry in the Computer Organization and Arquitecture classes. I'm passionate about building opportunities for students, bridges between different communities, and helping people from diverse backgrounds to code.
 </p>
 
 </div>
@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 <h2>I'm currently</h2>
 
-- 🌱 learning Docker, Smalltalk with SUnit, programming Sockets, & also following JS tutorials with <a href="https://github.com/w3cj">Coding Garden!</a> 
-- 📚 Reading: **"Borges, Big Data y yo"** which is supes cool! 
+- 🌱 learning Docker with <a href="https://github.com/w3cj">Coding Garden!</a> 
+- 📚 Re-reading: **"Borges, Big Data y yo"** which is super cool! 
 - 🤔 I’m looking for help with CSS, design & typography
 - 🦄 Looking into alternative tools for the internet
 
