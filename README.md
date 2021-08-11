@@ -39,9 +39,8 @@ Here are some ideas to get you started:
 
 <h2>I'm currently</h2>
 
-- 🌱 learning Docker with <a href="https://github.com/w3cj">Coding Garden!</a> 
-- 📚 Re-reading: **"Borges, Big Data y yo"** which is super cool! 
-- 🤔 I’m looking for help with CSS, design & typography
+- 📚 Reading: **"Borges, Big Data y yo"** which is super cool! 
+- 🤔 I’m looking to improve in CSS, design & typography
 - 🦄 Looking into alternative tools for the internet
 
 <h2>Stats</h2>
