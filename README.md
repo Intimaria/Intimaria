@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 <h2>I'm currently</h2>
 
-- 📚 Reading: **"Borges, Big Data y yo"** which is super cool! 
-- 🤔 I’m looking to improve in CSS, design & typography
-- 🦄 Looking into alternative tools for the internet
+- 📚 Studying Ruby at the moment! 
+- 🤔 I’m researching concurrent parallelised solutions for the TSP using MPI.
+- 🦄 I am interested in print making and visual patterns 
 
 <h2>Stats</h2>
 
