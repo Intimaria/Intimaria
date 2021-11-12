@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 <h2>I'm currently</h2>
 
-- 📚 Studying Ruby on Rails for Software development, database normalization, prython and CUDA programming for nvidia GPUs. 
-- 🤔 I’m researching concurrent parallelised solutions for the TSP using MPI.
+- 📚 Studying Ruby on Rails for Software development, database normalization, python and CUDA programming for Nvidia GPUs. 
+- 🤔 I’m researching distributed parallelised solutions for the TSP using MPI.
 - 🦄 I'm interested in new articles on natural events & also science fiction.
 
 <h2>Stats</h2>
