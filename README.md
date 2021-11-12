@@ -1,7 +1,4 @@
-### Hi there 👋
-
-![image](https://user-images.githubusercontent.com/4869398/118343974-507f1580-b502-11eb-8288-4266d6fa5d7c.png)
-
+### Hi! 👋
 <!--
 **Intimaria/Intimaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> 
@@ -23,14 +20,13 @@ Here are some ideas to get you started:
 <h2>About me </h2>
 
 <div >
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fce%2Fec%2Fa5%2Fceeca5612d3e25226f9d5cb7616f8976.gif" align="right" width="300">
 <ul>
   <li><b>👤 Name: </b> Inti Maria</li>
   <li><b>😄 Pronouns:</b>  She/They</li>
   <li><b>📣 Languages:</b> English & Spanish</li>
 </ul>
 
-<p>I'm Inti Maria (<i>aka Intu</i>) a computer engineering student diving into the world of writing. I've recently become a teaching assistant at the IT Faculty of the National University of La Plata, where I support students to learn binary representation, assembly language and circuitry in the Computer Organization and Arquitecture classes. I'm passionate about building opportunities for students, bridges between different communities, and helping people from diverse backgrounds to code.
+<p>I'm Inti Maria a software engineer studying at the National University of La Plata. I'm passionate about learning new technologies, solving problems & understanding what agile methodologies can bring to production.
 </p>
 
 </div>
@@ -39,9 +35,9 @@ Here are some ideas to get you started:
 
 <h2>I'm currently</h2>
 
-- 📚 Studying Ruby at the moment! 
+- 📚 Studying Ruby on Rails for Software development, database normalization, prython and CUDA programming for nvidia GPUs. 
 - 🤔 I’m researching concurrent parallelised solutions for the TSP using MPI.
-- 🦄 I am interested in print making and visual patterns 
+- 🦄 I'm interested in new articles on natural events & also science fiction.
 
 <h2>Stats</h2>
 
