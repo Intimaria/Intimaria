@@ -22,11 +22,10 @@ Here are some ideas to get you started:
 <div >
 <ul>
   <li><b>👤 Name: </b> Inti Maria</li>
-  <li><b>😄 Pronouns:</b>  She/They</li>
-  <li><b>📣 Languages:</b> English & Spanish</li>
+  <li><b>📣 Languages:</b> Native bilingual in English & Spanish</li>
 </ul>
 
-<p>I'm Inti Maria a software engineer studying at the National University of La Plata. I'm passionate about learning new technologies, solving problems & understanding what agile methodologies can bring to production.
+<p>Hi! Welcome to my about page. I love learning new technologies, solving problems & understanding how to implement brilliant ideas intelligently. I'm passionate about the environment, I love reading and meeting like minded people.
 </p>
 
 </div>
@@ -35,9 +34,10 @@ Here are some ideas to get you started:
 
 <h2>I'm currently</h2>
 
-- 📚 Studying Ruby on Rails for Software development, database normalization, python and CUDA programming for Nvidia GPUs. 
-- 🤔 I’m researching distributed parallelised solutions for the TSP using MPI.
-- 🦄 I'm interested in new articles on natural events & also science fiction.
+- 📚 Studying Secure Application Development, writing my Licenciate thesis, learning Go, python and CUDA programming for Nvidia GPUs. 
+- 🤔 I’m interested in learning how to use distributed technologies like blockhain in environmentally friendly way in non DeFi solutions.
+- ⚡ I have a female tabby called Paraná I rescued from a park. 
+- 🦄 I'm interested in new articles on nature & also science fiction.
 
 <h2>Stats</h2>
 
