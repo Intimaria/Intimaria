@@ -25,23 +25,37 @@ Here are some ideas to get you started:
   <li><b>📣 Languages:</b> Native bilingual in English & Spanish</li>
 </ul>
 
-<p>Hi! Welcome to my about page. I love learning new technologies, solving problems & understanding how to implement brilliant ideas intelligently. I'm passionate about the environment, I love reading and meeting like minded people.
+<p>Hi! Welcome. I love learning new technologies, solving problems & understanding how to implement brilliant ideas intelligently. I'm passionate about the environment, I love reading and meeting like minded people.
 </p>
 
 </div>
 
-<img src="https://img.shields.io/badge/mariainti_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white">
 
 <h2>I'm currently</h2>
-
+- ⚡ I work as a DevOps Engineer in a fast paced client facing local company with an international reach.
 - 📚 Studying Secure Application Development, writing my Licenciate thesis, learning Go, python and CUDA programming for Nvidia GPUs. 
 - 🤔 I’m interested in learning how to use distributed technologies like blockhain in environmentally friendly way in non DeFi solutions.
-- ⚡ I have a female tabby called Paraná I rescued from a park. 
-- 🦄 I'm interested in new articles on nature & also science fiction.
+- 🐈 I have a female tabby called Paraná. 
+- 🦄 I'm interested in neurodivergence, nature & also science fiction.
 
-<h2>Stats</h2>
+<h2> 🌱 Gentle Task Companion </h2>
 
-![Intimaria's github stats](https://github-readme-stats.vercel.app/api?username=Intimaria&show_icons=true&theme=radical)
+Last weekend, I built a small self-care app to support myself during moments of overwhelm.
 
+It’s called **[Gentle Task Companion](https://gentle-task-companion.vercel.app)** — a mental health support tool for neurodivergent people (like me).  
+You can track tasks, moods, gratitude, and access simple tools like communication cards and relaxing sounds. It’s private, accessible, and made with care.
+
+🧩 Built with: Next.js, Supabase, and Vercel  
+🧪 Try it here: [gentle-task-companion.vercel.app](https://gentle-task-companion.vercel.app)
+
+If the project resonates and you'd like to support its continued development, even small donations are deeply appreciated:
+
+☕ [Donate via MercadoLibre](https://link.mercadopago.com.ar/intu)  
+💸 [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=LJWDFCNPND8LG)
+
+Or just star the repo and share it if you think it could help someone. 💛
+
+You can explore the project here:  
+👉 [Gentle Task Companion GitHub Repo](https://github.com/Intimaria/gentle-task-companion)
 
 
