@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 
 <h2>I'm currently</h2>
+
 - ⚡ I work as a DevOps Engineer in a fast paced client facing local company with an international reach.
 - 📚 Studying Secure Application Development, writing my Licenciate thesis, learning Go, python and CUDA programming for Nvidia GPUs. 
 - 🤔 I’m interested in learning how to use distributed technologies like blockhain in environmentally friendly way in non DeFi solutions.
