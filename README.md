@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div >
 <ul>
-  <li><b>👤 Name: </b> Inti Maria</li>
+  <li><b>👤 Name: </b> Inti Maria Tidball</li>
   <li><b>📣 Languages:</b> Native bilingual in English & Spanish</li>
 </ul>
 
@@ -33,30 +33,7 @@ Here are some ideas to get you started:
 
 <h2>I'm currently</h2>
 
-- ⚡ I work as a DevOps Engineer in a fast paced client facing local company with an international reach.
-- 📚 Studying Secure Application Development, writing my Licenciate thesis, learning Go, python and CUDA programming for Nvidia GPUs. 
-- 🤔 I’m interested in learning how to use distributed technologies like blockhain in environmentally friendly way in non DeFi solutions.
-- 🐈 I have a female tabby called Paraná. 
-- 🦄 I'm interested in neurodivergence, nature & also science fiction.
-
-<h2> 🌱 Gentle Task Companion </h2>
-
-Last weekend, I built a small self-care app to support myself during moments of overwhelm.
-
-It’s called **[Gentle Task Companion](https://gentle-task-companion.vercel.app)** — a mental health support tool for neurodivergent people (like me).  
-You can track tasks, moods, gratitude, and access simple tools like communication cards and relaxing sounds. It’s private, accessible, and made with care.
-
-🧩 Built with: Next.js, Supabase, and Vercel  
-🧪 Try it here: [gentle-task-companion.vercel.app](https://gentle-task-companion.vercel.app)
-
-If the project resonates and you'd like to support its continued development, even small donations are deeply appreciated:
-
-☕ [Donate via MercadoLibre](https://link.mercadopago.com.ar/intu)  
-💸 [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=LJWDFCNPND8LG)
-
-Or just star the repo and share it if you think it could help someone. 💛
-
-You can explore the project here:  
-👉 [Gentle Task Companion GitHub Repo](https://github.com/Intimaria/gentle-task-companion)
+- I work as a DevOps Engineer in a fast paced client facing local company with an international reach.
+- Studying cibersec, writing my Licenciate thesis & choosing career development.
 
 
