@@ -55,7 +55,7 @@ me. Thanks!
 | Project | What it is | Where |
 | --- | --- | --- |
 | **Gentle Task Companion (GTC)** | Gentle, privacy-focused task and mood app for neurodivergent people; redesigned on a serverless AWS architecture. | [repo](https://github.com/Intimaria/gentle-task-companion) · [live](https://gentle.21211337.xyz) |
-| **Proxmox + Talos Kubernetes homelab** | Self-hosted Kubernetes cluster: Proxmox, Talos Linux, OpenTofu and GitOps. | [repo](https://github.com/Intimaria/talos-homelab-cluster) · [GitLab](https://gitlab.com/proxmox-infrastructure-homelab/talos-k8s-cluster) |
+| **Proxmox + Talos Kubernetes homelab** | Self-hosted Kubernetes cluster: Proxmox, Talos Linux, OpenTofu and GitOps. | [repo](https://github.com/Intimaria/talos-homelab-cluster) |
 | **Okarina** | Environmental monitoring station, to be presented at Nerdearla. | private — ask me |
 | **unlp-esp32s3** | ESP32-S3 telemetry firmware for environmental sensing. | [repo](https://github.com/Intimaria/unlp-esp32s3) |
 | **Combi19** | Full-stack bus-company management web app (Node.js + React). | [repo](https://github.com/Intimaria/Combi19-Website) |
