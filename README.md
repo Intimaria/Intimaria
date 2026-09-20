@@ -59,6 +59,8 @@ me. Thanks!
 | **Okarina** | Environmental monitoring station, to be presented at Nerdearla. | private — ask me |
 | **unlp-esp32s3** | ESP32-S3 telemetry firmware for environmental sensing. | [repo](https://github.com/Intimaria/unlp-esp32s3) |
 | **Combi19** | Full-stack bus-company management web app (Node.js + React). | [repo](https://github.com/Intimaria/Combi19-Website) |
+| **CuOOra** | Object-oriented design coursework built in Smalltalk / Pharo (UNLP). | [repo](https://github.com/Intimaria/CuOOra) |
+| **TP-Refactoring** | Refactoring exercise on code smells and OOP architecture patterns (UNLP). | [repo](https://github.com/Intimaria/TP-Refactoring) |
 
 ---
 
