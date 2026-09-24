@@ -2,6 +2,19 @@
 
 **DevOps Engineer @ [Mikroways](https://mikroways.net) · AWS Certified Solutions Architect – Associate**
 
+**Stack DevOps & Cloud**
+
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/)
+![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+
 DevOps / platform engineer focused on cloud infrastructure (AWS), Kubernetes and
 automation. Building tools with accessibility in mind.
 
