@@ -4,7 +4,7 @@
 
 **Stack DevOps & Cloud**
 
-![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?logo=amazonaws&logoColor=white)
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/users/inti-maria-tidball)
 ![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
