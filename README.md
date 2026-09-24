@@ -62,6 +62,7 @@ me. Thanks!
 | **CuOOra** | Object-oriented design coursework built in Smalltalk / Pharo (UNLP). | [repo](https://github.com/Intimaria/CuOOra) |
 | **TP-Refactoring** | Refactoring exercise on code smells and OOP architecture patterns (UNLP). | [repo](https://github.com/Intimaria/TP-Refactoring) |
 | **proyectoDEU** | Interactive game built for the User Experience Design course (UNLP). | [repo](https://github.com/Intimaria/proyectoDEU) |
+| **Computación paralela (CUDA + MPI)** | Vector-reduction optimizations in CUDA and TSP solved with Branch & Bound over MPI (UNLP). | [CUDA](https://github.com/Intimaria/vector-reduction-optimizations-CUDA) · [MPI](https://github.com/Intimaria/tsp_paralelo_con_mpi) |
 
 ---
 
